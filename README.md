@@ -50,3 +50,7 @@ Interactive commands: any task text, `recall: <question>`, `history`, `quit`.
 ## License
 
 [MIT](LICENSE)
+
+---
+
+Author: [Fedor Makovskiy](https://fedor.alqira.ru), AI developer. Services and projects with quality metrics: [fedor.alqira.ru](https://fedor.alqira.ru).
